@@ -6,7 +6,6 @@ the app lets them expand, remove, and reorder stops.
 The UI design is created and designed by "FIGMA" and the implementation plan was created by Gemini Model - 3.1 Flash
 And the code part was modified and solved bugs by Claude code.
 
-The Guidelines detailed were mentioned in "Guidelines.md" file.
 
   ## Running the code
 
