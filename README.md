@@ -13,3 +13,4 @@ And the code part was modified and solved bugs by Claude code.
 
   Run `npm run dev` to start the development server.
   
+<img width="1024" height="656" alt="image" src="https://github.com/user-attachments/assets/257b846c-8d2a-41c1-8676-841aa9b47752" />
